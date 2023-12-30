@@ -51,3 +51,7 @@
     border: none;
     padding: 8px 16px;
 }
+
+.feedback-form button:hover {
+    background: #6C8CFF;
+}

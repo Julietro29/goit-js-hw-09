@@ -18,3 +18,7 @@
 .modal-image {
     object-fit: cover;
 }
+
+.simple-lightbox-overlay {
+    background-color: rgba(46, 47, 66, 0.80);
+}
